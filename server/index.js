@@ -60,6 +60,7 @@ mongoose
     useUnifiedTopology: true,
   })
   .then(() => {
+    console.log("Connected to MongoDB");
     app.listen(PORT, () => console.log(`Server Port: ${PORT}`));
 
     /* ADD DATA ONE TIME */
