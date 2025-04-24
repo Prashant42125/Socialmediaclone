@@ -30,7 +30,7 @@ This is a social media app built using the MERN stack. It includes authenticatio
 
 1. Clone the repository
 ```bash
-git clone https://github.com/imabhinavdev/mern-social-media.git
+git clone https://Prashant42125/Socialmediaclone.git
 ```
 
 2. Install dependencies
